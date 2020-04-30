@@ -1,0 +1,30 @@
+{"frames": {
+
+  "knight_idle.png":
+  {
+    "frame": {"x":128,"y":68,"w":16,"h":28},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":28},
+    "sourceSize": {"w":32,"h":24},
+    "pivot": {"x":0.5,"y":0.5}
+  },
+  "knight_run.png":
+  {
+    "frame": {"x":192,"y":68,"w":16,"h":28},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":28},
+    "sourceSize": {"w":16,"h":28},
+    "pivot": {"x":0.5,"y":0.5}
+  }},
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "DungeonTileset.png",
+    "format": "RGBA8888",
+    "size": {"w":512,"h":512},
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:51ede84c7a85e4d6aeb31a6020a20858:3923663e59fb40b578d66a492a2cda2d:9995f8b4db1ac3cb75651b1542df8ee2$"
+  }
+}

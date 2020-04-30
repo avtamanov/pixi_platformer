@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dungeon Collection</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/5.1.3/pixi.min.js"></script>
+</head>
+<body>
+    <div id="root"></div>
+</body>
+
+<script>
+    const SCALE = 2;
+    const TILE_SIZE = 16 * SCALE; //32
+    let app = new PIXI.Application(
+        {
+            width: 15 * TILE_SIZE,
+            height: 20 * TILE_SIZE
+        }
+    );
+
+</script>
+<script src="characters.js"></script>
+<script src="plato_utils.js"></script>
+<script src="platos.js"></script>
+<script src="environment.js"></script>
+<script src="index.js"></script>
+<script src="controls.js"></script>
+<script src="menu.js"></script>
+</html>
